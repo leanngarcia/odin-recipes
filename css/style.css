@@ -1,0 +1,46 @@
+* {
+  font-family: "Cabin", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+
+h1,
+h2 {
+  color: darkred;
+  text-decoration: underline;
+}
+
+p {
+  line-height: 30px;
+}
+
+.title-text {
+  font-size: normal;
+  text-align: center;
+}
+
+li {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+img {
+  display: block;
+  height: auto;
+  width: 500px;
+  margin: 10px auto 10px auto;
+}
+
+.to-index {
+  display: inline-block;
+  background-color: bisque;
+  border-radius: 5px;
+  text-decoration: none;
+  border: 1px solid darkred;
+  padding: 5px;
+  margin-top: 20px;
+  text-align: center;
+}
